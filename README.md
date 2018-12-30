@@ -1,10 +1,10 @@
 
 ## Website link
 
-[a link](http://wp.gurinder.larmuseau.org/)
+[Wordpress Portfolio url](http://wp.gurinder.larmuseau.org/)
 
 
-##Basic Information 
+## Basic Information 
 
 
 Author: Gurinder Singh
@@ -18,8 +18,8 @@ Education: Bachelor Applied Computer Science
 Educational instituion: Howest
 
 
-##Instalation
-===
+## Instalation
+
 
 CMS1:
 
